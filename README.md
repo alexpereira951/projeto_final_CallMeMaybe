@@ -346,7 +346,7 @@ projeto_final_CallMeMaybe/
 ## 1. Clonar o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/alexpereira951/projeto_final_CallMeMaybe
 cd projeto_final_CallMeMaybe
 ```
 
