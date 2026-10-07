@@ -170,11 +170,13 @@ A análise resultou em quatro frentes de recomendação:
 
 O projeto também contempla um dashboard desenvolvido no **Tableau Public** para acompanhamento da eficiência dos operadores.
 
-Os materiais complementares — apresentação, CSV utilizado no Tableau e arquivo com o acesso ao dashboard — estão disponibilizados no arquivo ZIP indicado no notebook principal:
+[Clique aqui para acessar o Dashboard no Tableau Public](https://public.tableau.com/views/ProjetoCallMeMaybe/DASHBOARD?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Clique aqui para acessar o arquivo ZIP no Google Drive](https://drive.google.com/file/d/1K1nJXoxC5y6uG-h48ADkIbp9nOoh2L1I/view?usp=sharing)
+> Materiais complementares — PDF da apresentação e CSV utilizado no Tableau `operators_per_time.csv` (Clique nos links abaixo para acessa-los no Google Drive):
 
-> O arquivo ZIP contém a apresentação em PDF e uma pasta com o arquivo CSV e o arquivo `dashboard.txt`, que contém o acesso ao dashboard.
+Link: [PDF da Apresentação - no Google Drive](https://drive.google.com/file/d/1xfbNiHHuqEniSRaYkL1K-DcGGFbZ356u/view?usp=sharing)
+
+Link: [CSV usado no Dashboard - no Google Drive](https://drive.google.com/file/d/1bBBnhqpRz9zTK_igoc-HIcvrVYjZF_o_/view?usp=sharing)
 
 ---
 
