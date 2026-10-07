@@ -323,7 +323,6 @@ projeto_final_CallMeMaybe/
 │   └── notebooks/
 │       └── notebook_teste_ab.ipynb
 │
-├── descricao_geral.md
 └── requirements.txt
 ```
 
@@ -338,7 +337,6 @@ projeto_final_CallMeMaybe/
 | `teste AB/` | Projeto de avaliação do experimento A/B. |
 | `teste AB/datasets/` | Bases de marketing, eventos, usuários e participantes do experimento. |
 | `teste AB/notebooks/` | Notebook utilizado para tratamento, EDA e análise estatística do teste. |
-| `descricao_geral.md` | Documentação geral e contextualização dos projetos. |
 | `requirements.txt` | Arquivo de dependências do projeto. |
 
 ---
